@@ -4,10 +4,10 @@
 
 .Todo-item,
 .Todo-input {
-	/* display: inline-block; */
+	min-width: 300px;
 }
 
-.Todo-edit_button {
+.Todo-edit_button,.Todo-update_button {
 	margin-left: 10px;
 }
 
