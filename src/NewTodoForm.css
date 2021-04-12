@@ -1,0 +1,19 @@
+.NewTodoForm {
+	text-align: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10vw;
+}
+
+.NewTodoForm-label {
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+.NewTodoForm-input {
+	width: 300px;
+}
+
+.NewTodoForm-add_button {
+	margin-left: 10px;
+}

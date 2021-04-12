@@ -1,0 +1,16 @@
+.Todo {
+	text-align: start;
+}
+
+.Todo-item,
+.Todo-input {
+	/* display: inline-block; */
+}
+
+.Todo-edit_button {
+	margin-left: 10px;
+}
+
+.Todo-remove_button {
+	margin-left: 3px;
+}
